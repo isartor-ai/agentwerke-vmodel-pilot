@@ -1,0 +1,13 @@
+{
+  "name": "agentwerke-vmodel-pilot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Small order-pricing service used to prove one Agentwerke V-model thread end to end.",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^2.1.9"
+  }
+}
